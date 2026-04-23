@@ -168,6 +168,6 @@ gcc QUEEN.C -o queen
 
 ## License
 
-Educational project for DAA course.
+Educational project for DAA course .
 
 ---
